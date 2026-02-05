@@ -4,6 +4,7 @@ Welcome! Please see the [Documentation](Gomoku/Documentation/Gomoku%20Documentat
 
 To see the credits, please see [Credits](Credits.md).
 
-This product is protected under the MIT License. For more details, please see [License](License.md).
+This product is protected under the MIT License. For more details, please see [License](../LICENSE).
 
 To run the program, click on [Run.bat](Run.bat).
+
